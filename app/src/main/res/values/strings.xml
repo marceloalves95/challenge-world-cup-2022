@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">World Cup 2022</string>
+    <string name="error">Erro no carregamento dos dados</string>
+    <string name="no_connection">No Internet Connection</string>
+</resources>
